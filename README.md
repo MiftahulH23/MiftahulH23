@@ -20,13 +20,14 @@ Hi there! My name is Miftahul Huda, a Full-Stack Web Developer specializing in t
 
 <h3 align="left">Play games with me</h3>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiftahulH23/MiftahulH23/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiftahulH23/MiftahulH23/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MiftahulH23/MiftahulH23/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
 
